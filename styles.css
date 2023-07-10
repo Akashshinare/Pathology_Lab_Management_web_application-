@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  #login-container {
+    width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+  }
+  
+  #home-container {
+    display: none;
+    text-align: center;
+  }
+  
+  #todo-list {
+    margin-top: 50px;
+  }
+  
+  #cost-calculator,
+  #add-patient {
+    margin-top: 50px;
+  }
+  
